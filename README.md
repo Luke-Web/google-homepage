@@ -1,0 +1,1 @@
+This project is one I am making for the odin project about rewriting a website and making it again.
